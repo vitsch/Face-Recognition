@@ -5,6 +5,7 @@ im_process – to read jpg images, vectorise, and combine into a data matrix;
 pw_xn – to prepare the data for training and testing of ANNs; 
 mcnn – to train and test MCNN; 
 pw_nn and pw_test – to train and test PWNN.
+A sample data matrix generated using images from the Yale Extended B database (as referenced in the paper) is included as Yale1.mat file.
 
 Instructions:
 
