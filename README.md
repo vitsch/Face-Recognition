@@ -1,14 +1,10 @@
 # Face-Recognition
 
 The experiments were run using Matlab 2012. The code includes the following scripts:
-
-im_process – to read jpg images, vectorise, and combine into a data matrix
-
-pw_xn – to prepare the data for training and testing of ANNs
-
-mcnn – to train and test MCNN
-
-pw_nn and pw_test – to train and test PWNN
+im_process – to read jpg images, vectorise, and combine into a data matrix; 
+pw_xn – to prepare the data for training and testing of ANNs; 
+mcnn – to train and test MCNN; 
+pw_nn and pw_test – to train and test PWNN.
 
 Instructions:
 
